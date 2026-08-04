@@ -1,0 +1,40 @@
+body{
+    font-family:Arial;
+    background-color: #f0fff0;
+    text-align: center;
+
+}
+
+header{
+    background-color:green;
+    color:white;
+    padding:20px;
+
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+
+}
+
+section{
+    padding:20px;
+
+}
+
+article{
+    background-color:white;
+    border:1px solid gray;
+    width:300px;
+    margin:20px auto;
+    padding:15px;
+
+}
+
+footer{
+    background-color:green;
+    color:white;
+    padding:20px;
+}
